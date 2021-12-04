@@ -1,0 +1,5 @@
+First we will have to add node modules.
+Type npm i in terminal
+Now we will go to backend folder, and do node server.js
+Now in another terminal open Frontend folder and run npm start.
+You will be directed to front page.
